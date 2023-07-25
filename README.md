@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alphaprime7 on the Git but my actual name is Tingwei.
+- 👋 Hi, I’m @Alpha_Prime7 on the Git but my actual name is Tingwei.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently looking for a role in Data Science.
 - 💞️ I’m becoming proficient in programming.
