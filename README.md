@@ -50,7 +50,7 @@
 
 <table>
 
-  <tr><th> R Development </th><th>R Packages</th></tr>
+  <tr><th> R Development </th></tr>
   <tr><td>
 
 |Title | Stars | Downloads|
