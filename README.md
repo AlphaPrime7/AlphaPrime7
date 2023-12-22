@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/CRAN-Tingwei Adeck-blue?style=flat-square&amp;logo=CRAN&amp;logoColor=white"/>
 </a> <br/>
 
-<a href="https://www.r-pkg.org/maint/awesome.tingwei@outlook.com">
+<a href="https://github.com/AlphaPrime7">
 <img src="https://github-stats-alpha.vercel.app/api?username=AlphaPrime7&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
