@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 <p align="center">
 
 <a href="https://github.com/AlphaPrime7">
