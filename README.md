@@ -45,7 +45,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Rstudio" width="600px" style="padding-right:10px;" src="https://img.shields.io/badge/Rstudio-black?style=flat-square&logo=Rstudio" />
+<img align="left" alt="Rstudio" width="60px" style="padding-right:10px;" src="https://img.shields.io/badge/Rstudio-black?style=flat-square&logo=Rstudio" />
 </br>
 
  ### 📬️ Open-Source Projects
