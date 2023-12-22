@@ -61,6 +61,13 @@
 
 </table>
 
+* My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaPrime7&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlphaPrime7&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlphaPrime7&theme=dracula)
+
 <details>
 
 <summary>📈 Stats</summary>
@@ -74,6 +81,7 @@
 
 
 </details>
+
 
 ### 🎾 Fun Stuff
 
