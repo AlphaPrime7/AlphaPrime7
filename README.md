@@ -30,9 +30,7 @@
 
 </p>
 
--   🎓 MS in Cell and Molecular Biology / Bioinformatics \@ [The
-    University of Missouri Kansas
-    City](https://catalog.umkc.edu/colleges-schools/science-engineering/biology/master-of-science-cellular-molecular-biology/).
+-   🎓 MS in Cell and Molecular Biology / Bioinformatics \@ [The University of Missouri Kansas City] (https://catalog.umkc.edu/colleges-schools/science-engineering/biology/master-of-science-cellular-molecular-biology/).
 
 -   💻 Currently working on learning .NET MAUI. As a young framework
     compared to other known cross-platform application tools, I am a
