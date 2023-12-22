@@ -25,7 +25,7 @@
 </a> <br/>
 
 <a href="https://www.r-pkg.org/maint/awesome.tingwei@outlook.com">
-<img src="https://github-stats-alpha.vercel.app/api?username=AlphaPrime7&amp;cc=42272e&amp;tc&amp;tc=37BCF6&amp;ic=fff&amp;bc=0000"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=AlphaPrime7&amp;cc=22272e&amp;tc&amp;tc=37BCF6&amp;ic=fff&amp;bc=0000"/>
 </a>
 
 </p>
