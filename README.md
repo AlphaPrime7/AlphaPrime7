@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-Email-red?style=flat-square&amp;logo=Microsoft&amp;logoColor=white"/>
 </a> </a>
 
-<a href="https://www.cran-e.com/package/normfluodbf">
+<a href="https://www.cran-e.com/author/Tingwei%20Adeck">
 <img src="https://img.shields.io/badge/CRAN-Tingwei Adeck-blue?style=flat-square&amp;logo=CRAN&amp;logoColor=white"/>
 </a> <br/>
 
