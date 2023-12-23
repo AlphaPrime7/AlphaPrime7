@@ -17,7 +17,7 @@
 </a>
 
 <a href="mailto:awesome.tingwei@outlook.com">
-<img src="https://img.shields.io/badge/-Email-red?style=flat-square&amp;logo=Microsoft&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&amp;logo=Microsoft&amp;logoColor=white"/>
 </a> </a>
 
 <a href="https://www.cran-e.com/author/Tingwei%20Adeck">
