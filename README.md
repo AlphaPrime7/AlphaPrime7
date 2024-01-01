@@ -56,6 +56,7 @@
 |Title | Stars | Downloads|
 |--|--|--|
 | [normfluodbf](https://github.com/AlphaPrime7/normfluodbf) | <img alt="Stars" src="https://img.shields.io/github/stars/AlphaPrime7/normfluodbf?style=flat-square&labelColor=black"/> | [![R](https://img.shields.io/badge/R-black?style=flat-square&logo=R)](https://www.r-project.org/) [![Rstudio](https://img.shields.io/badge/Rstudio-black?style=flat-square&logo=Rstudio)](https://posit.co/download/rstudio-desktop/) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![CircleCD](https://img.shields.io/badge/CD-black?style=flat-square&logo=circlecd) <br> [![](http://cranlogs.r-pkg.org/badges/grand-total/normfluodbf?color=yellow)](https://cran.r-project.org/package=normfluodbf) |
+| [cranQuery](https://github.com/AlphaPrime7/cranQuery/tree/main) | <img alt="Stars" src="https://img.shields.io/github/stars/AlphaPrime7/cranQuery?style=flat-square&labelColor=black"/> | [![R](https://img.shields.io/badge/R-black?style=flat-square&logo=R)](https://www.r-project.org/) [![Rstudio](https://img.shields.io/badge/Rstudio-black?style=flat-square&logo=Rstudio)](https://posit.co/download/rstudio-desktop/) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![CircleCD](https://img.shields.io/badge/CD-black?style=flat-square&logo=circlecd) <br>  |
 
 </table>
 
