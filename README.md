@@ -32,7 +32,8 @@
 
 -   🎓 MS in Cell and Molecular Biology / Bioinformatics \@ [`{The University of Missouri Kansas City}`](https://catalog.umkc.edu/colleges-schools/science-engineering/biology/master-of-science-cellular-molecular-biology/)
 
--   💻 Currently working on learning .NET MAUI. As a young framework
+-   💻 Currently working on bringing normfluodbf to python.
+-   Backburner working on learning .NET MAUI. As a young framework
     compared to other known cross-platform application tools, I am a
     little curious on this but will not take long based on my current
     project. I should be working on other tools like ReactJS for my
