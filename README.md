@@ -1,7 +1,7 @@
 <p align="center">
 
 <a href="https://github.com/AlphaPrime7">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;size=18&amp;duration=2000&amp;pause=100&amp;multiline=true&amp;width=500&amp;height=80&amp;lines=Tingwei+Adeck;R+&+Python+Developer;Data Scientist" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;size=18&amp;duration=2000&amp;pause=100&amp;multiline=true&amp;width=500&amp;height=80&amp;lines=Tingwei+Adeck;R+And+Python+Developer;Data Scientist" alt="Typing SVG"/>
 </a> <br/>
 
 <a href="https://alphaprime7.github.io">
