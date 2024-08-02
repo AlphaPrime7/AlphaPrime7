@@ -68,17 +68,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlphaPrime7&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlphaPrime7&theme=dracula)
 
-<details>
-
-<summary>📈 Stats</summary>
-
-* My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaPrime7&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlphaPrime7&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlphaPrime7&theme=dracula)
-
   <span style="display: inherit; max-width: 49%; margin: auto;">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaPrime7&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -91,6 +80,19 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaPrime7&layout=compact&theme=vision-friendly-dark)](https://github.com/AlphaPrime7/github-readme-stats)
 
   </span>
+
+<details>
+
+<summary>📈 Stats</summary>
+
+* My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaPrime7&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlphaPrime7&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlphaPrime7&theme=dracula)
+
+
 
 
 </details>
