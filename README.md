@@ -2,7 +2,8 @@
 
 <a href="https://github.com/AlphaPrime7">
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;size=18&amp;duration=2000&amp;pause=100&amp;multiline=true&amp;width=500&amp;height=80&amp;lines=Tingwei+Adeck;R+And+Python+Developer;Future Brown Bear;Data Scientist" alt="Typing SVG"/>
-</a> <br/>
+</a> 
+<br/>
 
 <a href="Tingwei_Adeck_CV_v9.pdf">
 <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&amp;logo=adobe"/>
