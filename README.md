@@ -25,7 +25,7 @@
 </p>
 
 -   🎓 MS in Cell and Molecular Biology / Bioinformatics \@ [`{The University of Missouri Kansas City}`](https://catalog.umkc.edu/colleges-schools/science-engineering/biology/master-of-science-cellular-molecular-biology/)
--   ![student](https://github.com/user-attachments/assets/0e4482b0-6ef1-4f64-bf20-288d6000ef64) Starting the MS in Biostatistics and Health Data Science \@ [`{Brown University}`](https://mph.online.brown.edu/biostats/) in Spring 2025.
+-   📚 Starting the MS in Biostatistics and Health Data Science \@ [`{Brown University}`](https://mph.online.brown.edu/biostats/) in Spring 2025.
 -   💻 I’m currently ...  working on a two separate full stack projects (REACT and Python). 
 -   🌱 Also I find some occasional time to push updates to  [normfluodbf](https://github.com/AlphaPrime7/normfluodbf) essentially learning some more R. As you know the learnign process never ends. I am thinking about a project in the graphics end of R, something that has to do with ggplot since I want to know more about that but we ll see.
 -   non-💻 stuff: I do spanish on Duolingo (Como te llamas?). Also check out my hobbies below and for sure I have had the chance to hit some tennis balls recently (shoutout to Matt in the Kansas area).
