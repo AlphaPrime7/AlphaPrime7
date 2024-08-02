@@ -82,6 +82,22 @@
 
 </details>
 
+<div style="display: inline-block;" align="center">
+  
+  <span style="display: inherit; max-width: 49%; margin: auto;">
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaPrime7&theme=dark&background=000000)](https://git.io/streak-stats)
+    
+  </span>
+
+
+  <span  style="display: inherit; max-width: 49%; margin: auto;">
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaPrime7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  </span>
+</div>
+
 
 ### 🎾 Fun Stuff
 
