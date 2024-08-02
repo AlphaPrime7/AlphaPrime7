@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;size=18&amp;duration=2000&amp;pause=100&amp;multiline=true&amp;width=500&amp;height=80&amp;lines=Tingwei+Adeck;R+And+Python+Developer;Data Scientist" alt="Typing SVG"/>
 </a> <br/>
 
-<a href="https://alphaprime7.github.io">
-<img src="https://img.shields.io/badge/Website-alphaprime7.github.io-green?style=flat-square"/>
-</a>
-
 <a href="Tingwei_Adeck_CV_v9.pdf">
 <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&amp;logo=adobe"/>
 </a>
@@ -20,9 +16,7 @@
 <img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&amp;logo=Microsoft&amp;logoColor=white"/>
 </a> </a>
 
-<a href="https://www.cran-e.com/author/Tingwei%20Adeck">
-<img src="https://img.shields.io/badge/CRAN-Tingwei Adeck-blue?style=flat-square&amp;logo=CRAN&amp;logoColor=white"/>
-</a> <br/>
+<br/>
 
 <a href="https://github.com/AlphaPrime7">
 <img src="https://github-stats-alpha.vercel.app/api?username=AlphaPrime7&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
