@@ -77,7 +77,7 @@
 
   <span  style="display: inherit; max-width: 49%; margin: auto;">
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaPrime7&layout=compact&theme=vision-friendly-dark)](https://github.com/AlphaPrime7/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaPrime7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   </span>
 
