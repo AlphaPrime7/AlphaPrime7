@@ -9,7 +9,8 @@
 </a>
 
 <a href="https://www.linkedin.com/in/tingwei-adeck/">
-<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=linkedin"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+<i class="fab fa-linkedin" style="font-size:24px; color:#0e76a8;"></i>
 </a>
 
 <a href="mailto:awesome.tingwei@outlook.com">
