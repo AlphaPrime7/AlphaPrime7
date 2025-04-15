@@ -1,8 +1,6 @@
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Tingwei+Adeck+;R+And+Python+Developer;Future+Brown+Bear;Data+Scientist)](https://github.com/AlphaPrime7)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=200&color=F74E19&multiline=true&width=435&height=200&lines=Tingwei+Adeck;R+And+Python+Developer;Future+Brown+Bear;Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=200&color=F74E19&multiline=true&width=435&height=100&lines=Tingwei+Adeck;R+And+Python+Developer;Future+Brown+Bear;Data+Scientist)](https://git.io/typing-svg)
 
 <br/>
 
