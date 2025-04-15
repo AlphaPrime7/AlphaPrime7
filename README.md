@@ -1,6 +1,6 @@
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=200&color=F74E19&multiline=true&width=435&height=75&lines=Tingwei+Adeck;R+Python+And+Web+Developer;Future+Brown+Bear;Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=200&color=F74E19&multiline=true&width=435&height=79&lines=Tingwei+Adeck;R+Python+And+Web+Developer;Future+Brown+Bear;Data+Scientist)](https://git.io/typing-svg)
 
 <br/>
 
