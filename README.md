@@ -1,7 +1,7 @@
 <p align="center">
 
 <a href="https://github.com/AlphaPrime7">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;size=14&amp;duration=2000&amp;pause=100&amp;multiline=true&amp;width=500&amp;height=80&amp;lines=Tingwei+Adeck;R+And+Python+Developer;Future Brown Bear;Data Scientist" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Tingwei+Adeck+;R+And+Python+Developer;Future+Brown+Bear;Data+Scientist)](https://git.io/typing-svg)
 </a> 
 <br/>
 
